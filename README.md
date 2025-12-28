@@ -26,6 +26,16 @@ OpenTimestamps proof file for independent verification of the claim timestamp.
 
 ## Note
 
+
+
+## Canonical Public Records
+
+Primary archive  
+https://archive.org/details/synthience-doc013-origin-v1-public
+
+Website record  
+https://synthience.org/documents.html
+
 This release does not include the full Synthience Framework v1.1, which is under development and will be released separately.
 
 For the complete public record of all Synthience Institute releases, visit:  
