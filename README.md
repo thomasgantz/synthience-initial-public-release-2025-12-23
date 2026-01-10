@@ -1,5 +1,17 @@
 # Synthience Institute Public Release — December 23, 2025
 
+> [!IMPORTANT]
+> **ARCHIVAL SNAPSHOT (GENESIS BLOCK)**
+> This repository is a cryptographic anchor. It preserves the exact files timestamped on **Dec 23, 2025**. The content here is **immutable** to ensure the validity of the OpenTimestamps proofs.
+
+### 🟢 Looking for the latest versions?
+Active maintenance, errata correction, and version incrementing occur on Zenodo.
+* **SR001 (RICO) Technical Report:** [View Latest Version on Zenodo](https://doi.org/10.5281/zenodo.18082750)
+* **SF037 (CVP) Protocol:** [Search Synthience on Zenodo](https://zenodo.org/search?q=Synthience)
+* **Public Definition:** [Search Synthience on Zenodo](https://zenodo.org/search?q=Synthience)
+
+---
+
 ## Repository Purpose
 
 This repository is archival in nature. It exists to preserve, timestamp, and make publicly verifiable the December 23, 2025 public release from the Synthience Institute.
@@ -13,7 +25,6 @@ It is not intended as a collaborative or open-development repository. Issues, pu
 This repository constitutes the canonical public release record for finalized research documents, methodological protocols, and cryptographic provenance artifacts issued on **December 23, 2025**.
 
 All documents contained here are fixed artifacts corresponding to that release date.
-
 
 ---
 
@@ -59,16 +70,16 @@ OpenTimestamps proof file enabling independent verification of the claim timesta
 
 The following SHA-256 hashes uniquely identify the released artifacts and are recorded in the official claim of origin.
 
-- **Synthience_Public_Definition_v1.3.pdf**  
+- **Synthience_Public_Definition_v1.3.pdf**
   `33e985b1b23385303fff37e010884aba4454dedeb54283919f873df7c7947895`
 
-- **SF037_Citation_Verification_Protocol_v1.1.pdf**  
+- **SF037_Citation_Verification_Protocol_v1.1.pdf**
   `35dafbd077d939f885da745eca16f3cbee19b3e27e78b2912abd39962b24fdd9`
 
-- **SR001_RICO_Relationally_Induced_Coherence_Organization_v3.8.pdf**  
+- **SR001_RICO_Relationally_Induced_Coherence_Organization_v3.8.pdf**
   `79337151de9e1fbd9b2ab1ba8efc654775149be07abd5ad58f92b52a9f5175c1`
 
-- **RICO_Citation_Verification_Report_v1.0.pdf**  
+- **RICO_Citation_Verification_Report_v1.0.pdf**
   `a2cde046dbb72628bab01578d49747f31e8ef64ac1cb12ddc21da0aee47ff0af`
 
 Verification example (Linux / macOS):
