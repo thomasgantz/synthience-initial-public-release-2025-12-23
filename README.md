@@ -6,10 +6,10 @@
 
 ### 🟢 Looking for the latest versions?
 Active maintenance, errata correction, and version incrementing occur on Zenodo.
-* **SR001 (RICO) Technical Report:** [View Latest Version (DOI: 10.5281/zenodo.18086835)](https://doi.org/10.5281/zenodo.18086835)
-* **SR001-VR1 Verification Report:** [View Latest Version (DOI: 10.5281/zenodo.18082750)](https://doi.org/10.5281/zenodo.18082750)
-* **SF037 (CVP) Protocol:** [View Latest Version (DOI: 10.5281/zenodo.18075625)](https://doi.org/10.5281/zenodo.18075625)
-* **Public Definition:** [View Latest Version (DOI: 10.5281/zenodo.18087891)](https://doi.org/10.5281/zenodo.18087891)
+* **SR001 (RICO) Technical Report:** [View Latest Version (DOI: 10.5281/zenodo.18086835)](https://doi.org/10.5281/zenodo.18086834)
+* **SR001-VR1 Verification Report:** [View Latest Version (DOI: 10.5281/zenodo.18082750)](https://doi.org/10.5281/zenodo.18082749)
+* **SF037 (CVP) Protocol:** [View Latest Version (DOI: 10.5281/zenodo.18075625)](https://doi.org/10.5281/zenodo.18075624)
+* **Public Definition:** [View Latest Version (DOI: 10.5281/zenodo.18087891)](https://doi.org/10.5281/zenodo.18087890)
 
 ---
 
